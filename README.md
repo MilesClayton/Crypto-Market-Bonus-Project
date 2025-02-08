@@ -1,4 +1,4 @@
-**Bonus Project – Cryptocurrency Exchange Simulator**
+#**Bonus Project – Cryptocurrency Exchange Simulator**
 --
 
 A **C++ cryptocurrency exchange simulator** that enables users to deposit funds, place buy/sell orders, and execute trades. The system automatically **matches orders**, **maintains trade history**, and **calculates bid-ask spreads** to simulate a real-world trading environment.  
